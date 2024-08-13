@@ -1,0 +1,29 @@
+*{
+    background-color: bisque;
+}
+div {
+    background-color: bisque;
+    text-align: center;
+    padding: 3rem;
+}
+
+div ol,ul {
+    text-align: left;
+    color: darkblue;
+    padding: 2rems;
+}
+
+div ol,ul li{
+    padding: 1rem;
+    margin-right: 5rem;
+}
+
+#btn {
+    background-color: lightcoral;
+    margin-left: 2rem;
+}
+
+#btn:hover{
+    width: 10rem;
+}
+
